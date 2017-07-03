@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NoNeedRuntimePermission</string>
+    <string name="text_name">No Need Runtime Permissions</string>
+</resources>
